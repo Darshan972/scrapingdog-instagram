@@ -27,7 +27,7 @@ npm install scrapingdog-instagram
 const scrapingdog = require('scrapingdog-instagram');
 
 // Get Instagram profile details
-scrapingdog.getProfile('instagram', 'YOUR_API_KEY')
+scrapingdog.getProfile('instagram', 'YOUR_API_KEY') // Get your API_KEY by registering on https://www.scrapingdog.com/
   .then(profile => console.log(profile))
   .catch(console.error);
 
@@ -71,7 +71,7 @@ Fetch latest Instagram posts for a user ID.
 ## ⚠️ Disclaimer
 
 This package is not affiliated with Instagram.  
-It simply wraps [Scrapingdog’s official Instagram APIs](https://docs.scrapingdog.com/).
+It simply wraps [Scrapingdog’s official Instagram APIs](https://docs.scrapingdog.com/instagram-scraper-api).
 
 ---
 

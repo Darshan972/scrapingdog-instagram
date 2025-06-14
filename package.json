@@ -1,0 +1,33 @@
+{
+  "name": "scrapingdog-instagram",
+  "version": "1.0.0",
+  "description": "Wrapper for Scrapingdog Instagram Scraper APIs (Profile and Posts)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Darshan972/scrapingdog-instagram.git"
+  },
+  "keywords": [
+    "instagram",
+    "scrapingdog",
+    "profile scraper",
+    "post scraper",
+    "api"
+  ],
+  "author": {
+    "name": "Divanshu Khandelwal",
+    "email": "divanshu@scrapingdog.com",
+    "url": "https://scrapingdog.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darshan972/scrapingdog-instagram/issues"
+  },
+  "homepage": "https://github.com/Darshan972/scrapingdog-instagram#readme",
+  "dependencies": {
+    "axios": "^1.10.0"
+  }
+}

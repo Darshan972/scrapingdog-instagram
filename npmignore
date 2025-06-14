@@ -1,0 +1,28 @@
+# Dev-only files
+test/
+tests/
+*.test.js
+*.spec.js
+
+# Config and build tools
+.vscode/
+*.log
+coverage/
+node_modules/
+.git/
+.gitignore
+.npmignore
+*.md
+LICENSE
+LICENSE.*
+CHANGELOG
+*.ts
+tsconfig.json
+.eslintrc*
+.prettierrc*
+babel.config.js
+webpack.config.js
+rollup.config.js
+
+# Docs and meta
+README.md

@@ -1,6 +1,6 @@
 {
   "name": "scrapingdog-instagram",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wrapper for Scrapingdog Instagram Scraper APIs (Profile and Posts)",
   "main": "index.js",
   "scripts": {

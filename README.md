@@ -2,7 +2,7 @@
 
 A lightweight Node.js wrapper for Scrapingdog's **Instagram Scraper API**, supporting both:
 - [Instagram Profile Scraper](https://docs.scrapingdog.com/instagram-scraper-api/instagram-profile-scraper)
-- [Instagram Posts API](https://docs.scrapingdog.com/instagram-scraper-api/instagram-posts-api)
+- [Instagram Posts Scraper API](https://docs.scrapingdog.com/instagram-scraper-api/instagram-posts-api)
 
 ---
 
